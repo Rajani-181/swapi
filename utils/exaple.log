@@ -1,0 +1,6 @@
+INFO:root:we are hitting URL - h
+ERROR:root:there are issue fetching details
+INFO:root:we are hitting URL - https://swapi.dev/api/people/1/
+INFO:root:success - 200
+INFO:root:we are hitting URL - https://swapi.dev/api/people/1/
+INFO:root:success - 200
